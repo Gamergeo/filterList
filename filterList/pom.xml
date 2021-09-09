@@ -38,10 +38,6 @@
     			<targetPath>META-INF</targetPath>
     			<directory>src/main/resources/META-INF</directory>
     		</resource>
-    		<resource>
-    			<targetPath>META-INF/resources/webjars/plugin/filterList/</targetPath>
-    			<directory>src/main/resources/css</directory>
-    		</resource>
     	</resources>
     	
     	<pluginManagement>
