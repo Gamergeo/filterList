@@ -89,6 +89,7 @@
                     					<source>src/main/resources/js/element/filterList.js</source>
                     					<source>src/main/resources/js/element/searchFilter.js</source>
                     					<source>src/main/resources/js/element/saveFilter.js</source>
+                    					<source>src/main/resources/js/element/resetFilter.js</source>
                   					</sources>
                 				</merger>
               				</mergers>
